@@ -1,4 +1,4 @@
-# 🛰️ NetOutageMonitor (Power and Network Outage NetOutageMonitor)
+# 🛰️ NetOutageMonitor (Power and Network Outage Monitor - Auto Ping)
 
 Yerel ağdaki (LAN) bir cihazın aktifliğini sürekli kontrol ederek, elektrik veya ağ kesintilerini otomatik olarak tespit eden ve Windows üzerinde görsel uyarılar oluşturan Python tabanlı bir Windows Servisi.
 
