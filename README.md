@@ -1,4 +1,4 @@
-# 🛰️ NetOutage-Monitor (Power and Network Outage Ping Monitor)
+# 🛰️ NetOutageMonitor (Power and Network Outage NetOutageMonitor)
 
 Yerel ağdaki (LAN) bir cihazın aktifliğini sürekli kontrol ederek, elektrik veya ağ kesintilerini otomatik olarak tespit eden ve Windows üzerinde görsel uyarılar oluşturan Python tabanlı bir Windows Servisi.
 
@@ -28,7 +28,7 @@ Bu araç, şebeke elektriğine doğrudan bağlı (UPS'e bağlı olmayan) yerel b
 ## 🛠️ Kurulum ve Kullanım
 
 ### 1. Dosyaları Hazırlayın
-Proje dosyalarını bilgisayarınızda bir klasöre çekin (örn: `C:\NetOutage-Monitor`).
+Proje dosyalarını bilgisayarınızda bir klasöre çekin (örn: `C:\NetOutageMonitor`).
 
 ### 2. Servisi Yönetin
 Klasörün içindeki `servis_yonetim.bat` dosyasını **Yönetici Olarak Çalıştırın**. Çıkan menüden:
